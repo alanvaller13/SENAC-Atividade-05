@@ -1,0 +1,238 @@
+.containers {
+    position: relative;
+    background-color: rgba(249, 248, 248, 0.388);
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    width: 98%;
+    height: 98%;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-right: auto;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.containers2 {
+    background-color: rgba(109, 163, 176, 0.103);
+    padding: 35px;
+    border-radius: 10px;
+    width: 90%;
+    height: 70%;
+    margin-left: 80px;
+}
+
+#Centro {
+    margin-left: 25px;
+}
+
+
+.imgSocial {
+    width: 55px;
+    height: 55px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding-top: 10px;
+}
+
+.boxFace {
+    margin-top: 10px;
+    border: solid rgb(216, 209, 209);
+    background-color: rgb(228, 225, 219);
+    float: left;
+    margin: auto;
+    width: 60px;
+    height: 60px;
+}
+
+.boxFace:hover {
+    letter-spacing: 3px;
+    background-color: hsl(0, 11%, 59%);
+    color: hsl(0, 0%, 100%);
+    box-shadow: rgb(128, 128, 128) 0px 7px 29px 0px;
+}
+
+.boxFace:active {
+    letter-spacing: 3px;
+    background-color: hsl(0, 0%, 54%);
+    color: hsl(0, 0%, 100%);
+    box-shadow: rgb(189, 158, 158) 0px 0px 0px 0px;
+    transform: translateY(10px);
+    transition: 100ms;
+}
+
+.boxInsta {
+    margin-top: 10px;
+    border: solid rgb(216, 209, 209);
+    background-color: rgb(228, 225, 219);
+    float: left;
+    margin: auto;
+    margin-left: 10px;
+    width: 60px;
+    height: 60px;
+}
+
+.boxInsta:hover {
+    letter-spacing: 3px;
+    background-color: hsl(0, 11%, 59%);
+    color: hsl(0, 0%, 100%);
+    box-shadow: rgb(128, 128, 128) 0px 7px 29px 0px;
+}
+
+.boxInsta:active {
+    letter-spacing: 3px;
+    background-color: hsl(0, 0%, 54%);
+    color: hsl(0, 0%, 100%);
+    box-shadow: rgb(189, 158, 158) 0px 0px 0px 0px;
+    transform: translateY(10px);
+    transition: 100ms;
+}
+
+.boxTwitter {
+    margin-top: 10px;
+    border: solid rgb(216, 209, 209);
+    background-color: rgb(228, 225, 219);
+    float: left;
+    margin: auto;
+    margin-left: 10px;
+    width: 60px;
+    height: 60px;
+}
+
+.boxTwitter:hover {
+    letter-spacing: 3px;
+    background-color: hsl(0, 11%, 59%);
+    color: hsl(0, 0%, 100%);
+    box-shadow: rgb(128, 128, 128) 0px 7px 29px 0px;
+}
+
+.boxTwitter:active {
+    letter-spacing: 3px;
+    background-color: hsl(0, 0%, 54%);
+    color: hsl(0, 0%, 100%);
+    box-shadow: rgb(189, 158, 158) 0px 0px 0px 0px;
+    transform: translateY(10px);
+    transition: 100ms;
+}
+
+.boxLinkedIn {
+    border: solid rgb(216, 209, 209);
+    background-color: rgb(228, 225, 219);
+    float: left;
+    margin-right: 0;
+    margin-left: 0;
+    margin-top: 5px;
+    width: 60px;
+    height: 60px;
+}
+
+.boxLinkedIn:hover {
+    letter-spacing: 3px;
+    background-color: hsl(0, 11%, 59%);
+    color: hsl(0, 0%, 100%);
+    box-shadow: rgb(128, 128, 128) 0px 7px 29px 0px;
+}
+
+.boxLinkedIn:active {
+    letter-spacing: 3px;
+    background-color: hsl(0, 0%, 54%);
+    color: hsl(0, 0%, 100%);
+    box-shadow: rgb(189, 158, 158) 0px 0px 0px 0px;
+    transform: translateY(10px);
+    transition: 100ms;
+}
+
+.boxGitHub {
+    border: solid rgb(216, 209, 209);
+    background-color: rgb(228, 225, 219);
+    float: left;
+    margin-left: 10px;
+    margin-top: 5px;
+    width: 60px;
+    height: 60px;
+}
+
+.boxGitHub:hover {
+    letter-spacing: 3px;
+    background-color: hsl(0, 11%, 59%);
+    color: hsl(0, 0%, 100%);
+    box-shadow: rgb(128, 128, 128) 0px 7px 29px 0px;
+}
+
+.boxGitHub:active {
+    letter-spacing: 3px;
+    background-color: hsl(0, 0%, 54%);
+    color: hsl(0, 0%, 100%);
+    box-shadow: rgb(189, 158, 158) 0px 0px 0px 0px;
+    transform: translateY(10px);
+    transition: 100ms;
+}
+
+.boxOutrasMidias {
+    border: solid rgb(216, 209, 209);
+    background-color: rgb(228, 225, 219);
+    float: left;
+    margin-left: 10px;
+    margin-top: 5px;
+    width: 60px;
+    height: 60px;
+}
+
+.boxOutrasMidias:hover {
+    letter-spacing: 3px;
+    background-color: hsl(0, 11%, 59%);
+    color: hsl(0, 0%, 100%);
+    box-shadow: rgb(128, 128, 128) 0px 7px 29px 0px;
+}
+
+.boxOutrasMidias:active {
+    letter-spacing: 3px;
+    background-color: hsl(0, 0%, 54%);
+    color: hsl(0, 0%, 100%);
+    box-shadow: rgb(189, 158, 158) 0px 0px 0px 0px;
+    transform: translateY(10px);
+    transition: 100ms;
+}
+
+
+.col {
+    width: 50%;
+    height: 50%;
+    margin-top: 25%;
+    margin-bottom: 5%;
+}
+
+img {
+    border-radius: 100%;
+    width: 98%;
+    height: 98%;
+    padding: 10px;
+}
+
+.texto {
+    text-align: center;
+    font-size: 75px;
+    padding-top: 10px;
+    color: black;
+}
+
+.texto2 {
+    text-align: justify;
+    font-size: 18px;
+    color: black;
+}
+
+.color {
+    color: rgb(180, 120, 70);
+
+}
+
+.gradient {
+    background-image: linear-gradient(to bottom, rgb(177, 123, 43), rgb(230, 111, 57), rgb(224, 75, 64));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: rgb(158, 62, 62);
+}
